@@ -1,6 +1,6 @@
 import { combineReducers } from "redux";
 import uuid from "uuid"
-import AuthorInput from "../components/AuthorInput";
+
 
 const rootReducer = combineReducers({
   authors: authorsReducer, 
